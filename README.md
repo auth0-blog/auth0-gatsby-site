@@ -13,7 +13,7 @@ Gatsby starter for creating a blog and showcasing your work with landing pages f
 
 ## Gatsby Recipe
 
-This appication had Auth0 added to it via a Gatsby Recipe. You can find that recipe [here](https://gist.github.com/twclark0/0e11c962743f4e62ccd33a92d8b52d23). You must use the "Raw" version of the gist.
+This application had Auth0 added to it via a Gatsby Recipe. You can find that recipe [here](https://gist.github.com/twclark0/0e11c962743f4e62ccd33a92d8b52d23). You must use the "Raw" version of the gist.
 
 ## Auth0
 
